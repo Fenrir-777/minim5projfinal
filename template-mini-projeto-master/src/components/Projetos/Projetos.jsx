@@ -5,7 +5,7 @@ export default function Projetos() {
     <section id="projetos" className={styles.projetos}>
       <h2 className={styles.title}>Projetos</h2>
       <p className={styles.subtitle}>
-       Projetos nos quais fiz parte
+       Meus Projetos
       </p>
 
       <div className={styles.grid}>
