@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fenrir-777/minim5projfinal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fenrir-777/minim5projfinal/issues"
+  },
+  "homepage": "https://github.com/Fenrir-777/minim5projfinal#readme",
   "description": ""
 }
