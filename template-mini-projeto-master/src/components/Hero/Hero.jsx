@@ -21,7 +21,7 @@ export default function Hero() {
         <p className={styles.description}>
           Estudante de desenvolvimento web. 
           Cursando PdA (programadores do amanhâ), pretendo aperfeiçoar minhas habilidades.
-          Sempre em evolução.
+          em constante evolução.
         </p>
 
        
