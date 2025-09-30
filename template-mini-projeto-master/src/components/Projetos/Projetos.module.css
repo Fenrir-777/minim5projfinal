@@ -1,0 +1,70 @@
+.projetos {
+  padding: 80px 10%;
+  text-align: center;
+  background: linear-gradient(135deg, #db7d58, #ad6a44);
+  color: #fff;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  color: #ffbd91;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #ccc;
+  margin-bottom: 40px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+}
+
+.card {
+  background: #222;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0px 6px 15px rgba(0,0,0,0.4);
+}
+
+.image {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.cardTitle {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.cardDesc {
+  font-size: 1rem;
+  color: #ccc;
+  margin-bottom: 20px;
+}
+
+.cardBtn {
+  display: inline-block;
+  background: linear-gradient(135deg, #d291ff, #ad400d);
+  color: #fff;
+  padding: 10px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.cardBtn:hover {
+  background: linear-gradient(135deg, #e4b1ff, #e2d02b);
+  color: black;
+}
